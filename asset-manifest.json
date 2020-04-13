@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/iss-location.git/static/js/main.7200ed74.chunk.js",
+    "main.js.map": "/iss-location.git/static/js/main.7200ed74.chunk.js.map",
+    "runtime-main.js": "/iss-location.git/static/js/runtime-main.3dc9f95c.js",
+    "runtime-main.js.map": "/iss-location.git/static/js/runtime-main.3dc9f95c.js.map",
+    "static/css/2.89f067aa.chunk.css": "/iss-location.git/static/css/2.89f067aa.chunk.css",
+    "static/js/2.62960ae0.chunk.js": "/iss-location.git/static/js/2.62960ae0.chunk.js",
+    "static/js/2.62960ae0.chunk.js.map": "/iss-location.git/static/js/2.62960ae0.chunk.js.map",
+    "index.html": "/iss-location.git/index.html",
+    "precache-manifest.c949496e379309ac14c03540a9d6aa6a.js": "/iss-location.git/precache-manifest.c949496e379309ac14c03540a9d6aa6a.js",
+    "service-worker.js": "/iss-location.git/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/iss-location.git/static/css/2.89f067aa.chunk.css.map",
+    "static/js/2.62960ae0.chunk.js.LICENSE.txt": "/iss-location.git/static/js/2.62960ae0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dc9f95c.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.62960ae0.chunk.js",
+    "static/js/main.7200ed74.chunk.js"
+  ]
+}
