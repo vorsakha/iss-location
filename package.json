@@ -2,6 +2,7 @@
   "name": "iss",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tsaristbomba.github.io/iss-location.git",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -17,6 +18,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -36,5 +39,8 @@
   },
   "main": "index.js",
   "author": "tsaristbomba <andrexerdna@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
