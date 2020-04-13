@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd95446edce7fda0eaae85031bb17153",
+    "revision": "8fcda348408af10c985341822cba3b85",
     "url": "/iss-location.git/index.html"
   },
   {
